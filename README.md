@@ -29,3 +29,8 @@ The data was inspected for anomalies.
 - Countifs(sedentary < 5000, 5000 < lightly active < 7500, 7500 < fairly active < 10000, 10000 < very active)
 
 ![image](https://user-images.githubusercontent.com/99286647/206543950-aee8cc7f-fda5-4433-949e-a553ea9dc0d2.png)
+
+![image](https://user-images.githubusercontent.com/99286647/206763708-802ee9bf-c37e-4f85-a6ce-9118c3468670.png)
+
+_Conclusion: all types of users wear smart-devices_
+
