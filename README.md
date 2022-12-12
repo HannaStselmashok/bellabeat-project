@@ -56,4 +56,4 @@ _Conclusion: users are more active during lunch time (between 12 pm and 2 pm) an
 5.3 Reminders getting ready for bed. Settings: turn off apps and screen brightness at certain time.
 5.4 Reward system on burnt calories, total steps + share on social media
 
-Link to [Tabbleau dashboards]([url](https://public.tableau.com/views/Bellabeat_16705267025550/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
+Link to [Tabbleau dashboards]([https://public.tableau.com/views/Bellabeat_16705267025550/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link])
