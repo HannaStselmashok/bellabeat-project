@@ -1,17 +1,20 @@
 Google Analytics Capstone Project - Bellabeat
 
 1. Ask phase
+
 Questions to be unswered:
 - What are some trends in smart device usage?
 - How could these trends apply to Bellabeat customers?
 - How could these trends help influence Bellabeat marketing strategy?
 
 2. Prepare phase
+
 The data (CSV files) was downloaded to my computer. After inspection of tables I realised that files with weight and heartrate have too small sample (8 and 7 users). So I didtn't use them in my analysis.
 The next step was to implement right formats for data (date, numbers, etc.)
 Since the dataset are not very big I decided to use excel for cleaning and analysis and Tableau for visualization.
 
 3. Proccess phase
+
 The data was inspected for anomalies. 
 - deleting dublicates: 
 
@@ -40,7 +43,9 @@ _Conclusion: all types of users wear smart-devices_
 ![image](https://user-images.githubusercontent.com/99286647/207160801-e17996aa-cbc2-47b9-b370-79713b5ad330.png)
 
 _Conclusion steps: users walk the recommended amount of steps daily (7.500). The less active day - Subday_
+
 _Conclusion caloties: users burn average amount of calories daily (2.200 for lightly active day)_
+
 _Cobclusion sleep: users don't sleep recommended amount of hours (8)._
 
 4.2 Steps per hour: graph in Tableau, average per hour
@@ -52,8 +57,11 @@ _Conclusion: users are more active during lunch time (between 12 pm and 2 pm) an
 5. Act phase. Recommendations
 
 5.1 Notifications about user's activities, reminders to stand up and walk
+
 5.2 Post about sleeping (techniques, science articles).
+
 5.3 Reminders getting ready for bed. Settings: turn off apps and screen brightness at certain time.
+
 5.4 Reward system on burnt calories, total steps + share on social media
 
 Link to Tableau dashboards: https://public.tableau.com/views/Bellabeat_16705267025550/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
