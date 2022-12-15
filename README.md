@@ -9,7 +9,7 @@ Questions to be unswered:
 
 2. Prepare phase
 
-The data (CSV files) was downloaded to my computer. After inspection of tables I realised that files with weight and heartrate have too small sample (8 and 7 users). So I didtn't use them in my analysis.
+In order not to damage the original datasets (CVS files), I was downloaded them to my computer for further analysis. After inspection of tables I realised that files with weight and heartrate have too small sample (8 and 7 users). So I didtn't use them in my analysis.
 The next step was to implement right formats for data (date, numbers, etc.)
 Since the dataset are not very big I decided to use excel for cleaning and analysis and Tableau for visualization.
 
@@ -42,7 +42,7 @@ _Conclusion: all types of users wear smart-devices_
 
 ![image](https://user-images.githubusercontent.com/99286647/207160801-e17996aa-cbc2-47b9-b370-79713b5ad330.png)
 
-_Conclusion steps: users walk the recommended amount of steps daily (7.500). The less active day - Subday_
+_Conclusion steps: users walk the recommended amount of steps daily (7.500). The less active day - Sunday_
 
 _Conclusion caloties: users burn average amount of calories daily (2.200 for lightly active day)_
 
