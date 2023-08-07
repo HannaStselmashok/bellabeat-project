@@ -17,9 +17,7 @@ Since the datasets are not very big I decided to use Excel for cleaning and anal
 
 The data were inspected for anomalies. 
 - deleting duplicates: 
-
-![image](https://user-images.githubusercontent.com/99286647/204351401-f17bce32-2d04-4b85-b957-7f201842b2c0.png)
-- deleting raws with null
+- deleting rows with null
 - deleting unnecessary columns
 
 ![image](https://user-images.githubusercontent.com/99286647/206534162-797273db-3a08-4d64-9dfe-978ae2942a68.png)
