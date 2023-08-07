@@ -2,21 +2,21 @@ Google Analytics Capstone Project - Bellabeat
 
 1. Ask phase
 
-Questions to be unswered:
+Questions to be answered:
 - What are some trends in smart device usage?
 - How could these trends apply to Bellabeat customers?
 - How could these trends help influence Bellabeat marketing strategy?
 
 2. Prepare phase
 
-In order not to damage the original datasets (CVS files), I was downloaded them to my computer for further analysis. After inspection of tables I realised that files with weight and heartrate have too small sample (8 and 7 users). So I didtn't use them in my analysis.
+In order not to damage the original datasets (CVS files), I downloaded them to my computer for further analysis. After inspecting of tables I realized that files with weight and heartrate have too small sample (8 and 7 users). So I didn't use them in my analysis.
 The next step was to implement right formats for data (date, numbers, etc.)
-Since the dataset are not very big I decided to use excel for cleaning and analysis and Tableau for visualization.
+Since the datasets are not very big I decided to use Excel for cleaning and analyzing and Tableau for visualization.
 
 3. Proccess phase
 
-The data was inspected for anomalies. 
-- deleting dublicates: 
+The data were inspected for anomalies. 
+- deleting duplicates: 
 
 ![image](https://user-images.githubusercontent.com/99286647/204351401-f17bce32-2d04-4b85-b957-7f201842b2c0.png)
 - deleting raws with null
