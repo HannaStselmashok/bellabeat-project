@@ -34,7 +34,7 @@ The data were inspected for anomalies.
 
 ![image](https://user-images.githubusercontent.com/99286647/206763708-802ee9bf-c37e-4f85-a6ce-9118c3468670.png)
 
-_Conclusion: all types of users wear smart-devices_
+_Conclusion: all types of users wear smart devices_
 
 4.1 Steps/calories/sleep daily - graph in Tableau, average per weekday
 
@@ -42,7 +42,7 @@ _Conclusion: all types of users wear smart-devices_
 
 _Conclusion steps: users walk the recommended amount of steps daily (7.500). The less active day - Sunday_
 
-_Conclusion caloties: users burn average amount of calories daily (2.200 for lightly active day)_
+_Conclusion calories: users burn average amount of calories daily (2.200 for lightly active day)_
 
 _Cobclusion sleep: users don't sleep recommended amount of hours (8)._
 
@@ -50,7 +50,7 @@ _Cobclusion sleep: users don't sleep recommended amount of hours (8)._
 
 ![image](https://user-images.githubusercontent.com/99286647/207161399-63cf891c-4254-4d80-9092-bf51f3565baa.png)
 
-_Conclusion: users are more active during lunch time (between 12 pm and 2 pm) and in the evening (between 5 pm and 7 pm_
+_Conclusion: users are more active during lunchtime (between 12 pm and 2 pm) and in the evening (between 5 pm and 7 pm_
 
 5. Act phase. Recommendations
 
