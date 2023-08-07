@@ -13,7 +13,7 @@ In order not to damage the original datasets (CVS files), I downloaded them to m
 The next step was to implement right formats for data (date, numbers, etc.)
 Since the datasets are not very big I decided to use Excel for cleaning and analyzing and Tableau for visualization.
 
-3. Proccess phase
+3. Process phase
 
 The data were inspected for anomalies. 
 - deleting duplicates: 
